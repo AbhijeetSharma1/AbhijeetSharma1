@@ -81,14 +81,7 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
        alt="snake" /></a>
 </div>
 
-### - What i do
 
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
    
    
 <br />
@@ -107,3 +100,4 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
   
+ 
