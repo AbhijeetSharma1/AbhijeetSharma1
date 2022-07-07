@@ -25,6 +25,10 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abhijeet Sharma | 💻 Full Stack Developer | 🛸 India , UP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+ <h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+  </h5>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
