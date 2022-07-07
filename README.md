@@ -47,7 +47,7 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/AbhijeetSharma_)
  
  <p align="center">
   <h4> Full Stack | Javascript | Competitive Programming </h4>
