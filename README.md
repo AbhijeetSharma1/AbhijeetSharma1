@@ -28,6 +28,30 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
+  
+  <br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> I'm 20 years old Full-Stack developer from India.</h3>
+</p>
+
+ - 🥀 Learning JavaScript & Python 🖤
+ 
+ - <i>with Javascript, Typescript, React and 69 others.</i>
+   
+ - 🔭 SpaceX FanBoi, die for space😼
+
+ - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ 
+ - I do fullstack and a bit of everything :heart:
+ 
+ - All About living life at its best.
+ 
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ 
+ <p align="center">
+  <h4> Full Stack | Typescript | Competitive Programming </h4>
+   </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
@@ -40,3 +64,4 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+ 
