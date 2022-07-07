@@ -22,12 +22,11 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
 -->
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm ABHIJEET </h1>
-<h4 align="center">Full Stack Web Developer</h4>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abhijeet Sharma | 💻 Full Stack Developer | 🛸 India , UP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhijeetsharma1/">
+  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
