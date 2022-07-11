@@ -35,7 +35,7 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
   <h3> I'm 20 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning JavaScript & Python 🖤
+ - 🥀 Learning JavaScript & C++ 🖤
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
