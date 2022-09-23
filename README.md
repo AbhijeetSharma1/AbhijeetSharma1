@@ -53,7 +53,7 @@ I'm Abhijeet. JAVA / MERN Stack developer  . In my spare time I do open-sourcing
    </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
+  <a href="https://www.linkedin.com/in/gayatri-tiwari-a551591b2/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
