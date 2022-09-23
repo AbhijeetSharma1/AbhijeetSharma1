@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(normally it is about 1-2 hours in the morning before the work)_. Most of my open-source projects below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_. I also write [articles](https://www.linkedin.com/in/abhijeetsharma1/) about life, web-development and machine learning.
+I'm Abhijeet. java / MERN Stack developer  . In my spare time I do open-sourcing _(normally it is about 1-2 hours in the morning before the work)_. Most of my open-source projects below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_. I also write [articles](https://www.linkedin.com/in/abhijeetsharma1/) about life, web-development and machine learning.
 
 ### Getting in touch
 
@@ -35,7 +35,7 @@ I'm Abhijeet. MERN Stack developer  . In my spare time I do open-sourcing _(norm
   <h3> I'm 20 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning JavaScript & C++ 🖤
+ - 🥀 Learning JAVA, JavaScript & C++ 🖤
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
