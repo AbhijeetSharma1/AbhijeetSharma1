@@ -68,9 +68,7 @@ I'm an aspiring Software Engineer
 [![Abhijeet's's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijeetSharma1&&theme=xcode)](https://github.com/AbhijeetSharma1)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhijeetSharma1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbhijeetSharma1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijeetSharma1&show_icons=true&locale=en&theme=tokyonight" alt="AbhijeetSharma1" /></p>
 
 
 <p align="center">
