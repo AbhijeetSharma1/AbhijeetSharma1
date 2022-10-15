@@ -27,7 +27,7 @@ I'm an aspiring Software Engineer
   
   <br />
 
-  <h3> Java Backend developer from India.</h3>
+  <h1> Java Backend developer from India.</h1>
 </p>
 
  - 🥀 Learning JAVA, JavaScript & C++ 🖤
