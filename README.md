@@ -31,7 +31,7 @@ I'm Abhijeet. JAVA / MERN Stack developer  . In my spare time I do open-sourcing
   
   <br />
 
-  <h3> I'm 22 years old Full-Stack developer from India.</h3>
+  <h3> Java Backend developer from India.</h3>
 </p>
 
  - 🥀 Learning JAVA, JavaScript & C++ 🖤
@@ -49,7 +49,7 @@ I'm Abhijeet. JAVA / MERN Stack developer  . In my spare time I do open-sourcing
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/AbhijeetSharma_)
  
  <p align="center">
-  <h4> Full Stack | JAVA | Javascript | Competitive Programming </h4>
+  <h4> JAVA | Javascript | Competitive Programming </h4>
    </p>
 
 <div align="center">
@@ -69,10 +69,16 @@ I'm Abhijeet. JAVA / MERN Stack developer  . In my spare time I do open-sourcing
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+[![Abhijeet's's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijeetSharma1&&theme=xcode)](https://github.com/AbhijeetSharma1)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhijeetSharma1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbhijeetSharma1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijeetSharma1&show_icons=true&locale=en&theme=tokyonight" alt="AbhijeetSharma1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetSharma1&&theme=tokyonight" alt="AbhijeetSharma1" /></p>
 
 
 <p align="center">
