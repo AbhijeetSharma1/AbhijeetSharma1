@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-
+I'm an aspiring Software Engineer
 
 ### Getting in touch
 
