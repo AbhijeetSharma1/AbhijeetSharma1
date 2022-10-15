@@ -24,21 +24,28 @@ I'm an aspiring Software Engineer
 -->
 
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+A passionate Java Backend Developer from India
+------------------------------------------------
 
-  <h1> Java Backend developer from India.</h1>
-</p>
+* 🌍  I'm based in Patna, India
+* ✉️  You can contact me at [heyabhijeet01@gmail.com](heyabhijeet01@gmail.com)
+* 🧠  I'm learning Java
+* 🤝  I'm open to collaborating on Artificial Intelligence projects
+* 💬 Ask me about **JAVA | SPRINGBOOT | MYSQL | HIBERNATE | CSS | HTML | JAVASCRIPT**
 
- - 🥀 Learning JAVA, JavaScript & C++ 🖤
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
+### Skills
+
+<p align="left">
+  
+
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36" height="36"/> </a>
+
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman103767&show_icons=true&locale=en&layout=compact" alt="aman103767" /></p>
+
+  
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/AbhijeetSharma_)
  
