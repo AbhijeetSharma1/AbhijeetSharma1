@@ -73,14 +73,7 @@ I'm Abhijeet. JAVA / MERN Stack developer  . In my spare time I do open-sourcing
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-[![Abhijeet's's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijeetSharma1&&theme=xcode)](https://github.com/AbhijeetSharma1)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhijeetSharma1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbhijeetSharma1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijeetSharma1&show_icons=true&locale=en&theme=tokyonight" alt="AbhijeetSharma1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetSharma1&&theme=tokyonight" alt="AbhijetSharma1" /></p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
