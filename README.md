@@ -18,11 +18,11 @@ I'm an aspiring Software Engineer
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
 
-- ⚡ Fun fact : If you love Itachi than we are homies.
+- ⚡ Fun fact : If you love Artificial intelligence than we are homies.
 -->
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abhijeet Sharma | 💻 Full Stack Developer | 🛸 India , UP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abhijeet Sharma | 💻 Java Backend Developer | 🛸 India , UP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  <h5 align="center">
