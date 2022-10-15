@@ -21,9 +21,7 @@ I'm an aspiring Software Engineer
 - ⚡ Fun fact : If you love Artificial intelligence than we are homies.
 -->
 
- <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
 
   <h1> Java Backend developer from India.</h1>
 </p>
