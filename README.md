@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/AbhijeetSharma1)  
+
 ### Hi there! 👋
 
 I'm an aspiring Software Engineer
