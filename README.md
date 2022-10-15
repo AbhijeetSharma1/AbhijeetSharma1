@@ -25,7 +25,7 @@ I'm an aspiring Software Engineer
 
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
    <br>
-A passionate Java Backend Developer from India
+<h1> A passionate Java Backend Developer from India </h2>
 ------------------------------------------------
 
 * 🌍  I'm based in Patna, India
