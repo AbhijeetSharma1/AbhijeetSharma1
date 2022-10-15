@@ -21,10 +21,6 @@ I'm an aspiring Software Engineer
 - ⚡ Fun fact : If you love Artificial intelligence than we are homies.
 -->
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abhijeet Sharma | 💻 Java Backend Developer | 🛸 India , UP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
-
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
