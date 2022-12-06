@@ -28,7 +28,7 @@ I'm an aspiring Software Engineer
 <h1> A passionate Java Backend Developer from India </h2>
 ------------------------------------------------
 
-* 🌍  I'm based in Patna, India
+* 🌍  I'm based in Jhansi (UP), India
 * ✉️  You can contact me at [heyabhijeet01@gmail.com](heyabhijeet01@gmail.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Artificial Intelligence projects
