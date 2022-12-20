@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 Portfolio [https://srkjha.github.io/](https://srkjha.github.io/)
+- 👨‍💻 Portfolio [https://AbhijeetSharma1.github.io/](https://AbhijeetSharma1.github.io/)
 
 - 💬 Ask me about **JAVA | MYSQL |  SPRINGBOOT | HIBERNATE | HTML | CSS | JAVASCRIPT**
 
